@@ -1,6 +1,6 @@
 # ToDo in vanilla JS 
 
-![Gif](https://s4.gifyu.com/images/todo-js.gif)
+![Gif](todo-js.gif)
 
 ### This project represents my skills in native JavaScript. One of the challengies was to interact with DOM in a correct way. 
 
