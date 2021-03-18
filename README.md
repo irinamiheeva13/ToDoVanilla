@@ -1,6 +1,6 @@
 # ToDo in vanilla JS 
 
-![HTML] (https://s4.gifyu.com/images/todo-js.gif)
+![HTML](https://s4.gifyu.com/images/todo-js.gif)
 
 ### This project represents my skills in native JavaScript. One of the challengies was to interact with DOM in a correct way. 
 
